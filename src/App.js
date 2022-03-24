@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World. Capstone Demo
+          Hello World. Capstone Demo. Agregando una nueva funcionalidad. Ojala se actualice en master.
         </p>
         <a
           className="App-link"
